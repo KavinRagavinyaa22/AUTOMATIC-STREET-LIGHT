@@ -3,6 +3,7 @@ Automatic Street Light System
 
  Project Overview
 
+ 
 The **Automatic Street Light System** is an energy-efficient lighting solution that automatically controls street lights based on ambient light intensity. The system utilizes a **Light Dependent Resistor (LDR)** to detect environmental lighting conditions and operates the street light accordingly without manual intervention.
 
 This project demonstrates a practical application of embedded systems in **smart energy management and automation**.
@@ -81,4 +82,5 @@ Applications
 * Motion detection using PIR sensor for additional energy savings
 * Solar-powered implementation
 * Adaptive brightness control using PWM
+  
 
